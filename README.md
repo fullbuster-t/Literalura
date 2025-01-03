@@ -11,13 +11,13 @@ Proyecto desarrollado como un **catálogo de libros** a través de Java y Spring
 El programa nos permite seleccionar entre una serie de opciones; estas opciones nos permiten consultar información determinada de los libros, así como los autores de cada uno de ellos. La función principal se basa en la consulta de libros a través de la API para luego almacenarlos en la base de datos de PostgreSQL.
 
 **Las opciones con las que cuenta el programa son las siguientes:**
-* 1- Buscar y agregar un libro a la base de datos
-* 2- Listar los libros buscados
-* 3- Listar los autores
-* 4- Listado de autores vivos en un determinado año
-* 5- Listado de libros por idioma
-* 6- Obtener estadísticas de la base de datos
-* 7- Obtener el top 10 de los libros más descargados
+1. Buscar y agregar un libro a la base de datos
+2. Listar los libros buscados
+3. Listar los autores
+4. Listado de autores vivos en un determinado año
+5. Listado de libros por idioma
+6. Obtener estadísticas de la base de datos
+7. Obtener el top 10 de los libros más descargados
 
 <h2> Tecnologías 📂</h2>
 
